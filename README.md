@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VivekMendhe 
 - 👀 I’m interested in Web Devlopment
-- 🌱 I’m currently learning Sprint Boot Technology
+- 🌱 I’m currently working as Full Stack Web Development!
 - 💞️ I’m looking to collaborate on well strong organisation.
 - 📫 How to reach me vivek.mendhe.022@gmail.com
 
